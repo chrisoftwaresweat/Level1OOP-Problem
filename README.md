@@ -8,7 +8,7 @@
 
 ---
 
-# 📌 Overview
+## 📌 Overview
 
 This project is part of my **Level 1 OOP Foundation Problems in Java**.  
 It is a console-based **Student Grade System** designed to apply core Object-Oriented Programming concepts in a real working program.
@@ -33,7 +33,7 @@ This project focuses on:
 
 ---
 
-# 🎯 My Goal
+## 🎯 My Goal
 
 - 🧠 Strengthen my understanding of OOP fundamentals  
 - 🛠️ Build a structured Java console application  
@@ -58,9 +58,9 @@ This project focuses on:
 
 ---
 
-# 🧠 OOP Concepts Used
+## 🧠 OOP Concepts Used
 
-## 🔹 Encapsulation
+### 🔹 Encapsulation
 
 ```java
 private String name;
@@ -69,21 +69,21 @@ private double exam;
 
 ```
 
-#🔹 Constructor
+###🔹 Constructor
 public Student(String name, double quiz, double exam)
 
 Used to initialize student objects properly.
 
-#🔹 Methods
+###🔹 Methods
 computeAverage() → calculates student average
 displayInfo() → prints student details
 getName(), getQuiz(), getExam() → controlled access
-# 🔹 ArrayList
+### 🔹 ArrayList
 ArrayList<Student> students = new ArrayList<Student>();
 
 Used to store multiple student objects dynamically.
 
-#🔹 Objects
+###🔹 Objects
 Student student = new Student(name, quiz, exam);
 
 Each student is treated as an object.
@@ -137,14 +137,14 @@ Remark: Pass
 
 ## ⚠️ Error Handling / Input Validation
 
-# 🚫 Invalid Menu Input
+### 🚫 Invalid Menu Input
 ```java
 Your choice: a
 
 Agent Chris: Please enter a number.
 ```
 
-# 🚫 Empty Name Input
+### 🚫 Empty Name Input
 ```java
 Enter the name of the student:
 
@@ -153,7 +153,7 @@ Agent Chris: Please enter a name.
 Enter the name of the student: Chris
 ```
 
-# 🚫 Invalid Quiz Input
+### 🚫 Invalid Quiz Input
 ```java
 Enter their quiz score: abc
 
@@ -166,7 +166,7 @@ Agent Chris: Quiz score ranges from 0-100
 Enter their quiz score: 92
 ```
 
-# 🚫 Invalid Exam Input
+### 🚫 Invalid Exam Input
 ```java
 Enter their exam score: -10
 
@@ -174,7 +174,7 @@ Agent Chris: Exam score ranges from 0-100
 Enter their exam score: 88
 ```
 
-# 🔍 Student Not Found
+### 🔍 Student Not Found
 ```java
 Enter student name to search: Alex
 
@@ -213,7 +213,7 @@ java Main
 
 ## 👨‍💻 Author
 
-# Christian A. Gulfan
+### Christian A. Gulfan
 Aspiring Software Developer 🚀
 
 ---
