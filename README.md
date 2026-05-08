@@ -1,4 +1,4 @@
-# 🎓 Student Grade System (Java OOP)
+# 🎓 Level 1 OOP Problem: Student Grade System
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
