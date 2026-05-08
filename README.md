@@ -213,7 +213,7 @@ java Main
 
 ## 👨‍💻 Author
 
-Christian A. Gulfan
+# Christian A. Gulfan
 Aspiring Software Developer 🚀
 
 ---
